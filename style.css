@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid maroon;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+button{
+  background-color: rgb(255, 252, 80);
+  border: 5px solid rgb(30, 148, 138);
+  color: rgb(72, 35, 202);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+input{
+  background-color: rgb(255, 255, 255);
+  border: 5px solid rgb(30, 148, 138);
+  color: rgb(72, 35, 202);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: 5;
+  display: inline-block;
+  font-size: 20px;
+}
